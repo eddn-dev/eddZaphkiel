@@ -25,7 +25,7 @@ Hola, soy Eduardo, un apasionado desarrollador de software con un fuerte enfoque
 
 ## Contacto 📫
 
-- 📧 Email: [edd.valhalla@gmail.com](mailto:contacto@edndev.com)
+- 📧 Email: [contacto@edndev.com](mailto:contacto@edndev.com)
 - 
 ---
 
