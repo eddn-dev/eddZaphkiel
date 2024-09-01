@@ -16,7 +16,7 @@ Hola, soy Eduardo, un apasionado desarrollador de software con un fuerte enfoque
 - **Desarrollo Móvil:** Xamarin
 - **Bases de Datos:** SQL, MariaDB
 - **Herramientas DevOps:** Aprendiendo Docker, Kubernetes, CI/CD
-- **Otros:** Conocimientos básicos en HTML, CSS; Manejo de Windows 10
+- **Otros:** Conocimientos básicos en HTML, CSS, SASS, Gulp, PHP, NodeJS y actualmente estudiando el patrón de diseño MODEL VIEW CONTROLLER para el desarrollo de aplicaciones web; Manejo de Windows 10
 
 ## Proyectos y Colaboraciones 🌟
 
@@ -25,7 +25,7 @@ Hola, soy Eduardo, un apasionado desarrollador de software con un fuerte enfoque
 
 ## Contacto 📫
 
-- 📧 Email: [edd.valhalla@gmail.com](mailto:edd.valhalla@gmail.com)
+- 📧 Email: [edd.valhalla@gmail.com](mailto:contacto@edndev.com)
 - 
 ---
 
