@@ -11,7 +11,7 @@ Hola, soy Eduardo, un apasionado desarrollador de software con un fuerte enfoque
 - 🔍 Interesado en **automatización**, **mejores prácticas de desarrollo** y **arquitecturas de software**.
 
 ## Habilidades Técnicas 💡
-
+ 
 - **Lenguajes de Programación:** C, C#, C++, Java
 - **Desarrollo Móvil:** Xamarin
 - **Bases de Datos:** SQL, MariaDB
